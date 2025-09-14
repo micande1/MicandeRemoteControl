@@ -38,7 +38,7 @@ pip install opencv-python pyTelegramBotAPI pyautogui Pillow
 Edit `option.py` file:
 ```python
 token = "12345"     # Replace with your bot token
-user_id = 12345               # Replace with your chat ID
+user_id = 12345     # Replace with your chat ID
 ```
 
 ### 5. Run
