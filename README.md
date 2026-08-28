@@ -75,7 +75,7 @@ This tool is for educational purposes and authorized use only. Use responsibly a
 
 ## Author
 
-Created by micande(https://micande.site/)
+Created by micande(https://micande.me/)
 
 ## License
 
